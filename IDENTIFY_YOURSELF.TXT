@@ -1,2 +1,2 @@
-Name:
-Student Number:
+Name: Mike Tam
+Student Number: 040258294
